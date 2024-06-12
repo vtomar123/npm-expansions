@@ -25,7 +25,7 @@
     "pretest": "node build.js",
     "test": "tap test"
   },
-  "dependencies": {
+  "devDependencies": {
     "tap": "^19.2.5"
   }
 }
